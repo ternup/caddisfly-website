@@ -18,6 +18,8 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
+	<link rel="shortcut icon" href="http://caddisfly.ternup.com/favicon.ico" type="image/vnd.microsoft.icon"/>
+	<link rel="icon" href="http://caddisfly.ternup.com/favicon.ico" type="image/x-ico"/>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=yes" />
 	<title><?php wp_title( '|', true, 'right' ); ?></title>

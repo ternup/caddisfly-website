@@ -102,11 +102,9 @@ get_header(); ?>
       </div>
       <div class="unit two-of-three video">
         <div id="containingBlock">
-          <div class="videoWrapper">
-            <div>
+          <div class="videopane">
                 <iframe src="//player.vimeo.com/video/74707522?title=0&amp;byline=0&amp;portrait=0"
-                        style="border:0;width:100%;height:100%" allowfullscreen=""></iframe>
-            </div>
+                        style="border:0;" allowfullscreen=""></iframe>
           </div>
         </div>
       </div>
